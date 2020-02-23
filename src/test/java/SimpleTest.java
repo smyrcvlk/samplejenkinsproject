@@ -8,7 +8,7 @@ public class SimpleTest {
 }
   @Test
     public void secondtest(){
-      System.out.println("never fail");
+      System.out.println("never  test fail");
   }
 
 
